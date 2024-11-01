@@ -14,7 +14,7 @@ public class MatkulAmbil {
         this.n3 = n3;
     }
 
-    Matkul getMatkul() {
+    public Matkul getMatkul() {
         return matkul;
     }
 
